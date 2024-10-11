@@ -1,0 +1,11 @@
+miniTeX
+=======
+
+Éditeur en temps réel pour TeX conçu avec Tauri pour rester léger et portatif.
+Il embarque plusieurs fonctionnalités :
+  * Visualisation en temps réel des modifications ;
+  * Complétion automatique des commandes TeX ;
+  * Gestion des paquets (à venir) ;
+  * Historique des modifications (à venir).
+
+miniTeX est élaboré avec une interface esthétique et moderne.
